@@ -1,7 +1,7 @@
 # Hi there, I'm Lenlo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Full-Stack+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;API+Development+Specialist;Database+Architecture+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,42 +16,36 @@
 ```javascript
 const developer = {
   name: "Raul Castillo",
-  role: "MERN Stack Developer",
+  role: "Backend Developer",
   location: "Antipolo City, Rizal",
   education: "Computer Science Graduate",
-  currentFocus: "Building full-stack web applications",
-  funFact: "I debug with console.log and I'm not ashamed! 😄",
+  currentFocus: "Building scalable server-side applications and APIs",
+  specialization: "RESTful APIs, Database Design, and Server Architecture",
+  funFact: "I can optimize database queries for hours and love every minute of it! 😄",
 };
 
 console.log(developer);
 ```
 
-- 🔭 I'm currently working on **building full-stack MERN applications**
-- 🌱 I'm currently learning **Docker, AWS, and advanced MongoDB techniques**
-- 👯 I'm looking to collaborate on **open source MERN stack projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, and Full-Stack development**
+- 🔭 I'm currently working on **building scalable backend systems and RESTful APIs**
+- 🌱 I'm currently learning **Microservices architecture, Docker containerization, and AWS cloud services**
+- 👯 I'm looking to collaborate on **backend API projects and database optimization**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, Database Design, and API Development**
 - 📫 How to reach me: **raulc8808@gmail.com**
-- ⚡ Fun fact: **I can spend hours optimizing a single database query**
+- ⚡ Fun fact: **I can spend hours optimizing a single database query and database schema design**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Backend Tech Stack
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend Technologies
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Technologies
+### Backend Frameworks & Runtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -62,15 +56,33 @@ console.log(developer);
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
 ### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 </div>
+
+---
+
+## 🎯 Backend Specializations
+
+- **RESTful API Development** - Building scalable and maintainable APIs
+- **Database Design & Optimization** - Efficient schema design and query optimization
+- **Authentication & Authorization** - JWT, OAuth, and security best practices
+- **Microservices Architecture** - Designing distributed systems
+- **Server-Side Performance** - Caching strategies and optimization techniques
+- **API Documentation** - Comprehensive API documentation with Swagger/OpenAPI
 
 ---
 
@@ -95,13 +107,23 @@ console.log(developer);
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Learning Goals
 
-- [ ] Master Docker and containerization
-- [ ] Learn AWS cloud services
-- [ ] Contribute to 5 open source projects
-- [ ] Build a microservices architecture project
-- [ ] Get AWS Developer Associate certification
+- [ ] Master Docker containerization and Kubernetes orchestration
+- [ ] Deep dive into AWS cloud services (Lambda, RDS, S3, ECS)
+- [ ] Implement microservices architecture patterns
+- [ ] Learn GraphQL and Apollo Server
+- [ ] Get AWS Solutions Architect certification
+- [ ] Explore serverless architecture with AWS Lambda
+
+---
+
+## 🔧 Recent Projects Focus
+
+- **API Development**: Building RESTful APIs with proper authentication and authorization
+- **Database Optimization**: Improving query performance and database schema design
+- **Server Architecture**: Implementing scalable server-side solutions
+- **DevOps Integration**: Containerizing applications and setting up CI/CD pipelines
 
 ---
 
@@ -123,7 +145,7 @@ console.log(developer);
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+**"Good code is its own best documentation." – Steve McConnell**
 
 </div>
 
