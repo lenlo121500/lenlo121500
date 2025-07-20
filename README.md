@@ -1,116 +1,125 @@
-# Hi there, I'm Lenlo 👋
+# Hey there! I'm Lenlo 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Full-Stack+Web+Development;API+Development+Specialist;Database+Architecture+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Problem+Solver;MERN+%2B+PHP+%7C+React+%2B+Laravel;Building+Tomorrow's+Web+Today;API+Architect+%7C+Database+Wizard;Clean+Code+%7C+Scalable+Solutions;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lenlo121500&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/lenlo121500?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen" alt="availability" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me (The Human Behind The Code)
 
 ```javascript
 const developer = {
   name: "Raul Castillo",
-  role: "MERN Stack Developer",
-  location: "Antipolo City, Rizal",
+  role: "Full-Stack Developer",
+  location: "Antipolo City, Rizal 🇵🇭",
   education: "Computer Science Graduate",
-  currentFocus: "Building scalable full-stack web applications",
-  specialization: [
-    "Frontend: HTML, CSS, React.js",
-    "Backend: Node.js, Express.js, RESTful APIs",
-    "Database: MongoDB, PostgreSQL, Redis",
-    "DevOps: Docker, AWS, CI/CD"
-  ],
-  funFact: "I can optimize database queries for hours and love every minute of it! 😄",
-  passion: "Creating seamless user experiences from database to UI"
+  experience: "Building digital solutions that users actually love",
+  
+  techStack: {
+    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS", "JavaScript ES6+"],
+    backend: ["Node.js", "Express.js", "PHP", "Laravel", "RESTful APIs"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    cloud: ["AWS", "Docker", "CI/CD", "Linux"]
+  },
+  
+  workingStyle: {
+    motto: "Clean code is not written by following rules. It's written by someone who cares.",
+    approach: "Test-driven development meets user-centered design",
+    communication: "Clear, frequent, and honest",
+    problemSolving: "Break it down, build it up, make it beautiful"
+  },
+  
+  currentMission: "Creating web applications that solve real problems elegantly",
+  superpower: "Turning complex business requirements into intuitive user experiences",
+  weaknesses: ["Can't resist refactoring legacy code", "Perfectionist with UI details"],
+  
+  whenNotCoding: ["Exploring new tech", "Reading about system design", "Playing guitar"],
+  coffeeConsumption: "Probably too much ☕"
 };
 
-console.log(developer);
+// Always evolving, always learning
+developer.futureGoals = ["Microservices architecture", "DevOps mastery", "Team leadership"];
 ```
 
-- 🔭 I'm currently working on **building scalable full-stack MERN applications and RESTful APIs**
-- 🌱 I'm currently learning **Next.js, TypeScript, Microservices architecture, Docker containerization, and AWS cloud services**
-- 👯 I'm looking to collaborate on **full-stack web applications, API projects, and database optimization**
-- 💬 Ask me about **MERN Stack, React.js, Node.js, Express.js, MongoDB, Database Design, and API Development**
-- 📫 How to reach me: **raulc8808@gmail.com**
-- ⚡ Fun fact: **I can spend hours optimizing a single database query and creating pixel-perfect UI components**
+**What I Bring to Your Team:**
+- 💡 **Problem-First Thinking** - I don't just code; I solve business problems
+- 🎯 **Full-Stack Vision** - From database optimization to pixel-perfect UIs
+- 🔄 **Adaptable Tech Stack** - Whether it's React + Node.js or Laravel + React, I deliver
+- 📈 **Growth Mindset** - Every project teaches me something new
+- 🤝 **Collaborative Spirit** - Great software is built by great teams
 
 ---
 
-## 🛠️ MERN Stack Tech Arsenal
+## 🛠️ My Tech Arsenal (Weapons of Choice)
 
 <div align="center">
 
-### Frontend Technologies
-
+### 🎨 Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### Backend Technologies
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases & Storage
+### ⚙️ Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+### 🗄️ Database Expertise
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools & Technologies
-
+### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Full-Stack Specializations
+## 💼 What I Can Build For You
 
-### 🎨 Frontend Development
-- **React.js Ecosystem** - Components, Hooks, Context API, and modern patterns
-- **State Management** - Zustand, and Context API implementations
-- **UI/UX Development** - Responsive design with Tailwind CSS
-- **Performance Optimization** - Code splitting, lazy loading, and SEO optimization
-- **Modern JavaScript** - ES6+, TypeScript, and asynchronous programming
+### 🎯 **MERN Stack Applications**
+- **E-commerce Platforms** - Full shopping experiences with payment integration
+- **Social Media Apps** - Real-time chat, notifications, and user interactions
+- **Dashboard & Analytics** - Data visualization and business intelligence tools
+- **Content Management** - Custom CMS solutions tailored to your workflow
 
-### ⚙️ Backend Development
-- **RESTful API Development** - Building scalable and maintainable APIs
-- **Database Design & Optimization** - Efficient schema design and query optimization
-- **Authentication & Authorization** - JWT, OAuth, and security best practices
-- **Microservices Architecture** - Designing distributed systems
-- **Server-Side Performance** - Caching strategies and optimization techniques
+### 🎯 **PHP/Laravel Solutions**
+- **Enterprise Web Applications** - Scalable business solutions with Laravel
+- **API Development** - RESTful services with proper authentication & documentation
+- **Legacy System Modernization** - Breathing new life into old PHP applications
+- **Custom Web Portals** - Client portals, admin panels, and workflow management
 
-### 🔧 Full-Stack Integration
-- **API Integration** - Seamless frontend-backend communication
-- **Real-time Features** - WebSocket implementation with Socket.io
-- **File Management** - Upload, processing, and storage solutions
-- **Testing** - Unit testing, integration testing, and E2E testing
-- **DevOps & Deployment** - CI/CD pipelines and cloud deployment strategies
+### 🎯 **Full-Stack Integration**
+- **Hybrid Applications** - Laravel backend with React frontend (best of both worlds)
+- **Microservices Architecture** - Breaking monoliths into manageable services
+- **Third-party Integrations** - Payment gateways, social logins, external APIs
+- **Performance Optimization** - Making your applications lightning fast
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenlo121500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -123,55 +132,80 @@ console.log(developer);
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 My Development Philosophy
+
+```mermaid
+graph TD
+    A[Understand the Problem] --> B[Plan the Solution]
+    B --> C[Choose Right Tools]
+    C --> D[Write Clean Code]
+    D --> E[Test Everything]
+    E --> F[Deploy Confidently]
+    F --> G[Monitor & Improve]
+    G --> A
+```
+
+**My Core Principles:**
+
+🎨 **User-Centered Design** - If users don't love it, it's not done  
+⚡ **Performance Matters** - Every millisecond counts in user experience  
+🔧 **Maintainable Code** - Future developers (including me) will thank us  
+🧪 **Test-Driven** - Confidence comes from comprehensive testing  
+📚 **Documentation First** - Good docs save more time than good code  
+🔄 **Continuous Learning** - Yesterday's best practices are tomorrow's legacy code  
+
+---
+
+## 🚀 Current Learning Journey
+
+- [ ] **Next.js 15** - Mastering the latest React framework features
+- [ ] **Laravel 11** - Exploring new PHP 8.3+ features and performance improvements
+- [ ] **TypeScript Advanced Patterns** - Generic wizardry and type gymnastics
+- [ ] **Docker & Kubernetes** - Container orchestration for scalable deployments
+- [ ] **AWS Solutions Architecture** - Cloud-native application design
+- [ ] **GraphQL** - Modern API development with Apollo
+- [ ] **React Native** - Expanding into mobile development
+
+---
+
+## 💡 What Makes Me Different
+
+**🎯 Business-First Approach**  
+I don't just implement features; I understand why they matter to your business and users.
+
+**🛠️ Technology Agnostic**  
+Whether your team prefers Laravel or Node.js, I adapt to what works best for your project.
+
+**📈 Scalability Minded**  
+I build applications that grow with your business, not against it.
+
+**🤝 Communication Focused**  
+Regular updates, clear documentation, and honest timelines. No surprises, just results.
+
+**🔍 Detail Oriented**  
+From API response times to button padding, I sweat the small stuff so you don't have to.
+
+---
+
+## 📈 Contribution Visualization
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenlo121500&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
-## 🎯 Current Learning Goals
-
-- [ ] Master Next.js 15 with App Router and Server Components
-- [ ] Deep dive into TypeScript advanced patterns and generics
-- [ ] Implement GraphQL with Apollo Server and Client
-- [ ] Learn React Native for mobile development
-- [ ] Master Docker containerization and Kubernetes orchestration
-- [ ] Get AWS Solutions Architect certification
-- [ ] Explore serverless architecture with AWS Lambda and Vercel Functions
-
 ---
 
-## 🔧 Development Workflow
-
-```mermaid
-graph LR
-    A[Planning] --> B[Frontend Development]
-    B --> C[Backend API Development]
-    C --> D[Database Design]
-    D --> E[Integration Testing]
-    E --> F[Deployment]
-    F --> G[Monitoring & Optimization]
-```
-
-**My Development Process:**
-1. **Planning & Design** - Wireframing and system architecture
-2. **Frontend Development** - React components and user interface
-3. **Backend Development** - API endpoints and business logic
-4. **Database Integration** - Schema design and data management
-5. **Testing & Quality Assurance** - Unit tests and integration tests
-6. **Deployment & DevOps** - CI/CD pipelines and cloud deployment
-7. **Monitoring & Optimization** - Performance tracking and improvements
-
----
-
-## 📫 Let's Connect!
+## 📫 Let's Build Something Amazing Together!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raulc8808)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulc8808@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lenlo121500.github.io/lenlodev-portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenlo121500)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raulc8808)
+[![Email](https://img.shields.io/badge/Email-raulc8808@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulc8808@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lenlo121500.github.io/lenlodev-portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenlo121500)
+
+**📞 Available for:** Full-time positions | Freelance projects | Technical consulting  
+**🌍 Remote-ready** | **🇵🇭 Based in Philippines** | **🕒 Flexible timezone**
 
 </div>
 
@@ -183,9 +217,11 @@ graph LR
 
 <div align="center">
   
-**"The best way to learn is to build something you're passionate about." – Unknown**
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-*Building full-stack applications that solve real-world problems, one commit at a time.* 🚀
+*Ready to turn your ideas into digital reality. Let's build something that matters.* 🚀
+
+---
 
 </div>
 
